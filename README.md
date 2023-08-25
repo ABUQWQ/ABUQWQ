@@ -2,4 +2,4 @@
 
 <div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=1197215791&lang=zh-CN"> </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XCMABU)](https://github.com/ashutosh00710/github-readme-activity-graph)
